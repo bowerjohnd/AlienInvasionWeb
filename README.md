@@ -5,8 +5,12 @@ Utilizing pygbag, with guidance from google AI, this is a slightly trimmed versi
 - An online leaderboard is in the works.
 
 <p>
-    <a href="https://www.arknla.dev/AlienInvasionWeb">
-        <h2>Play Here</h2>
-        <img src="images/AlienInvasionScreenshot.jpg" width="300">
+    <h2>
+        <a href="https://www.arknla.dev/AlienInvasionWeb" target="_blank">
+        Play Here
+        </a>
+    </h2>
+    <a href="https://www.arknla.dev/AlienInvasionWeb" target="_blank">
+        <img src="images/AlienInvasionScreenshot.jpg" width="300" alt="Alien Invasion Web">
     </a>
 </p>
