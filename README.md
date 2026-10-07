@@ -6,11 +6,11 @@ Utilizing pygbag, with guidance from google AI, this is a slightly trimmed versi
 
 <p>
     <h2>
-        <a href="https://www.arknla.dev/AlienInvasionWeb" target="_blank">
+        <a href="https://www.arknla.dev/AlienInvasionWeb" target="_blank" rel="noopener">
         Play Here
         </a>
     </h2>
-    <a href="https://www.arknla.dev/AlienInvasionWeb" target="_blank">
+    <a href="https://www.arknla.dev/AlienInvasionWeb" target="_blank" rel="noopener">
         <img src="images/AlienInvasionScreenshot.jpg" width="300" alt="Alien Invasion Web">
     </a>
 </p>
